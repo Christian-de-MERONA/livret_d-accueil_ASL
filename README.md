@@ -12,21 +12,22 @@ Les informations qui pourraient y figurer sont :
 4. les règles de copropriété/lotissement
 5. tailles et type des étiquettes de noms (interphone, boite aux lettres, portes, ...)
 6. les jours de ramassages des poubelles (Ordures ménagères/recyclage)
-7. annuaires des membres (nom, numéros de téléphone)
-8. numéro de téléphone de la mairie
-9. numéro de téléphone de la gendarmerie la plus proche
-10. numéro de téléphone de la police municipale
-11. site adresse et horaires de la déchetterie (méthode d'inscription)
-12. point de collecte de verres
-13. point de collecte de vêtements
-14. pharmacie la plus proche
-15. points d'interêts à proximité
+7. planning des entretiens des espaces commun (si fait par les membres)
+8. annuaires des membres (nom, numéros de téléphone)
+9. numéro de téléphone de la mairie
+10. numéro de téléphone de la gendarmerie la plus proche
+11. numéro de téléphone de la police municipale
+12. site adresse et horaires de la déchetterie (méthode d'inscription)
+13. point de collecte de verres
+14. point de collecte de vêtements
+15. pharmacie la plus proche
+16. points d'interêts à proximité
 
 ## Méthodes de récupération des données
 
 Dans un premier temps, les données seront à renseigner à la mains par un membres de l'association (président ?).
 
-Par la suite, les informations 8-11 et 14 pourraient être récupérés automatiquement (scraping, API, ... ).
+Par la suite, les informations 9-12 et 15 pourraient être récupérés automatiquement (scraping, API, ... ).
 
 ## Configuration du site
 
