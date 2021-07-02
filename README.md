@@ -26,7 +26,7 @@ Les informations qui pourraient y figurer sont :
 
 Dans un premier temps, les données seront à renseigner à la mains par un membres de l'association (président ?).
 
-Par la suite, les informations ci-dessous pourraient être récupérer automatiquement (scraping, API, ... ).
+Par la suite, les informations 8-11 et 14 pourraient être récupérés automatiquement (scraping, API, ... ).
 
 ## Configuration du site
 
