@@ -22,6 +22,7 @@ Les informations qui pourraient y figurer sont :
 14. point de collecte de vêtements
 15. pharmacie la plus proche
 16. points d'interêts à proximité
+17. horaires des travaux
 
 ## Méthodes de récupération des données
 
